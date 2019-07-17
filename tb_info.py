@@ -2,11 +2,11 @@ from teambition import *
 import json
 import csv
 import re
-client_id = '8c32d510-a773-11e9-920f-5502daf09d27'
-client_secret = 'b57ef4e1-a4bd-45c0-9cc2-cad3c0879ae4'
-code = '8LFrGW75xaAd_zpEtxpNaz6Y'
-token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfdXNlcklkIjoiNWM4ZjA4Y2ZjNDgxMWQwMDAxMTgyN2Q2IiwiYXVkIjoib2F1dGgyIiwiYXV0aFVwZGF0ZWQiOjE1NTI4OTk0ODAwMTIsImNsaWVudEtleSI6IjhjMzJkNTEwLWE3NzMtMTFlOS05MjBmLTU1MDJkYWYwOWQyNyIsImV4cCI6MTU5NDc5OTgzNSwiaWF0IjoxNTYzMjYzODM1LCJpc3MiOiJhY2NvdW50cyJ9.ROXT7q8vyccH-qkMDkIqC2EWRmU3Jj_bNwMXekuC01U"
-refresh_token = "NLj@7$#Oao)7q7cFo%O9OpiJi#0/eBLy"
+client_id = '8xxxxx'
+client_secret = 'b57xxxx'
+code = '8LFrxxxx'
+token = "eyJhbG"
+refresh_token = "NLBLyxxxxx"
 # print(token)
 
 tb = Teambition(client_id, client_secret, access_token=token)
